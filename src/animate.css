@@ -12,7 +12,7 @@
   animation-fill-mode: both;
 }
 
-@keyframes fade-in {
+@keyframes fadeIn {
   from {
     opacity: 0;
   }
@@ -22,6 +22,6 @@
   }
 }
 
-.fade-in {
-  animation-name: fade-in;
+.fadeIn {
+  animation-name: fadeIn;
 }
